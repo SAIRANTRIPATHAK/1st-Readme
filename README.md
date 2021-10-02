@@ -1,37 +1,16 @@
-![Hello!](https://github.com/SAIRANTRIPATHAK/1st-Readme/blob/main/program-industrial-eng.jpg)
-# Introduction 🚀
-Hello ✋ I am Sairantri Pathak and I am from NSEC CSBS 1st Year
+<h1 align="center">Hi 👋, I'm Sairantri Pathak</h1>
+<h3 align="center">I am a student of Netaji Subhash Engineering College studying Btech, CSBS'1st Year</h3>
 
-## 🔷Basic Details:
-**Name -** *Sairantri Pathak*
+- 🌱 I’m currently learning **C,C++,Java,Python**
 
-**City -** *Kolkata*
+- 📫 How to reach me **pathaksairantri@gmail.com**
 
-<img src="https://img.icons8.com/bubbles/100/000000/kolkata.png"/>
+- ⚡ Fun fact **I love to dance.**
 
-## 🔷College Details:
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/sairantri pathak" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sairantri pathak" height="30" width="40" /></a>
+</p>
 
-**College name -** *Netaji Subhash Engineering College*
-
-**College City -** *Kolkata,New Garia*
-
-## 🔷Skills:
-|S.No |Skills|
-|---|---|
-|1.| C |
-|2.| C++ |
-|3.| Java |
-
-## 🔷Courses:
-1. Coursera
-2. Udemy
-
-## 🔷Languages:
-- English
-- Bengali
-- Hindi
-
-## 🔷Contact me:
-[Linkedin Link:](https://www.linkedin.com/in/sairantri-pathak-714134208/)
-
-
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
