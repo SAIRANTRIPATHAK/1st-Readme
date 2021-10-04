@@ -1,3 +1,4 @@
+![Hello](https://github.com/SAIRANTRIPATHAK/SAIRANTRIPATHAK/blob/main/gif-de-ideias-em-evento-corporativos.gif)
 <h1 align="center">Hi 👋, I'm Sairantri Pathak</h1>
 <h3 align="center">I am a student of Netaji Subhash Engineering College studying Btech, CSBS'1st Year</h3>
 
